@@ -1,11 +1,9 @@
-# 👋 Olá! Eu sou [João Vitor Ribeiro dos Santos]  
+# 👋 Olá! Eu sou João Vitor Ribeiro dos Santos  
 
 🚀 Desenvolvedor Junior | 💡 Entusiasta de IA | 🎮 Apaixonado por Games  
 
 ### 📫 Contato  
-📧 Email: [seuemail@email.com](mailto:seuemail@email.com)  
-🌎 Portfólio: [seusite.com](https://seusite.com)  
-💼 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
+📧 Email:  joaovitorsantos.empress@gmail.com
 
 ### 🚀 Tecnologias & Ferramentas  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
