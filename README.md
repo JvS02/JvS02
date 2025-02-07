@@ -17,6 +17,3 @@
 ### 🎨 Estilização Extra  
 🌟 Status do GitHub:  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical)  
-
-😃 Visitas ao perfil:  
-![Visitantes](https://komarev.com/ghpvc/?username=seuusuario&color=blue)
