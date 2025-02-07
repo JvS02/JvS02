@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou João Vitor Ribeiro dos Santos  
+# 👋 Olá! Eu sou João Vitor  
 
 🚀 Desenvolvedor Junior | 💡 Entusiasta de IA | 🎮 Apaixonado por Games  
 
