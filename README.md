@@ -12,7 +12,7 @@
 
 ### 📊 Estatísticas  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JvS02&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JvS02&layout=compact&theme=radical)
 
 🌟 Status do GitHub:  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JvS02&theme=radical)  
