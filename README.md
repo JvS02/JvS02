@@ -14,6 +14,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
 
-### 🎨 Estilização Extra  
 🌟 Status do GitHub:  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical)  
